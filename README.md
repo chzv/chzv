@@ -40,32 +40,6 @@ Python & SQL developer with a focus on backend logic, data handling, and buildin
 - Redis caching
 - Telegram bot development 
 
-
-## 🚀 Projects
-
-### 🐾 Telegram Bot for Moscow Zoo
-
-Telegram bot created to support the animal sponsorship program at Moscow Zoo.  
-Features a quiz that assigns users a “totem animal” based on their answers.  
-Pandas excluded per client requirements.
-
-**Stack:** Python · Telegram Bot API · JSON · PostgreSQL 
-
-[View repository](https://github.com/chzv/zoo-bot)
-
----
-
-### 🎮 Tic-Tac-Toe (Console Game)
-
-Terminal-based game with clean, modular architecture and scalable logic.  
-Implements win condition checks and replay functionality.
-
-**Stack:** Python · OOP · Functions · CLI I/O
-
-[Source code](https://github.com/chzv/tic-tac-toe)
-
----
-
 ## 🧠 Soft Skills
 
 - Problem-solving mindset  
