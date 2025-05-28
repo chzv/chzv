@@ -11,34 +11,36 @@ Python & SQL developer with a focus on backend logic, data handling, and buildin
 - 🌍 Based in Nha Trang, Vietnam
 
 ## 🧠 What I Do
-- Build Telegram bots with quiz logic and custom user interaction
-- Design relational databases and write reliable SQL queries
-- Confident in interface design via Figma, basic knoweleges of Tilda
-- Work with APIs, JSON, curl and Postman
-  
+- Develop Telegram bots with quiz logic, user interaction, and database integration
+- Build REST APIs with JWT authentication, CRUD operations, and business logic
+- Confident in PostgreSQL: schema design, advanced queries, and Alembic migrations
+- Write unit tests using Pytest to ensure stability and logic correctness
+- Work with APIs, JSON, curl, and Postman
+- Design interfaces in Figma, familiar with Tilda
 
 ### 🐍 Python
 
-- Confident use of built-in data structures 
-- Control flow, comprehensions, closures
-- Object-Oriented Programming
-- Functional programming
-- Modular code organization, working with packages
-- Algorithms and structures
+- Experience with FastAPI and SQLAlchemy ORM
+- Confident use of built-in data structures
+- Control flow, generators, closures
+- Object-Oriented and Functional Programming
+- Modular code structure and dependency management
+- Basics of algorithms and data structures
 
 ### 📊 Databases
 
-- Relational DB design and normalization
+- Relational database design and normalization
 - SQL: SELECT, JOIN, GROUP BY, subqueries
-- DDL, DML, indexes, constraints, transactions
-- PostgreSQL functions, logic, custom types
+- DDL/DML, indexes, constraints, transactions
+- PostgreSQL: functions, custom types, Alembic migrations
 
 ### 🌐 Web & Data
 
-- Web scraping (requests, BeautifulSoup)
-- Working with REST APIs and JSON
+- REST API design, docs, and JWT protection
+- Telegram bots: state handling, logic, database interaction
+- Working with third-party APIs and JSON
 - Redis caching
-- Telegram bot development 
+- Web scraping with requests and BeautifulSoup
 
 ## 🧠 Soft Skills
 
