@@ -7,10 +7,6 @@ I create practical tools — from Telegram bots to REST APIs and full-fledged we
 
 ---
 
-## 💼 About Me
-- 💻 I'm a junior backend developer focused on Python and SQL
-- 🌍 Based in Nha Trang, Vietnam
-
 ## 🧠 What I Do
 - Backend development with Python (FastAPI, SQLAlchemy)
 - Database design and queries (PostgreSQL, Alembic migrations)
