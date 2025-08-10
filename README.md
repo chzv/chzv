@@ -2,7 +2,8 @@
 
 🇷🇺 Read in Russian → [README.ru.md](./README.ru.md)
 
-Python & SQL developer with a focus on backend logic, data handling, and building practical tools — from Telegram bots to working with databases and APIs. I value clean architecture, reliability, and thoughtful implementation.
+**Junior Developer** with experience in backend development, databases, and web technologies.  
+I create practical tools — from Telegram bots to REST APIs and full-fledged websites — focusing on clean architecture and reliability.
 
 ---
 
@@ -11,36 +12,23 @@ Python & SQL developer with a focus on backend logic, data handling, and buildin
 - 🌍 Based in Nha Trang, Vietnam
 
 ## 🧠 What I Do
-- Develop Telegram bots with quiz logic, user interaction, and database integration
-- Build REST APIs with JWT authentication, CRUD operations, and business logic
-- Confident in PostgreSQL: schema design, advanced queries, and Alembic migrations
-- Write unit tests using Pytest to ensure stability and logic correctness
-- Work with APIs, JSON, curl, and Postman
-- Design interfaces in Figma, familiar with Tilda
+- Backend development with Python (FastAPI, SQLAlchemy)
+- Database design and queries (PostgreSQL, Alembic migrations)
+- REST API creation and documentation (Swagger / OpenAPI)
+- Website development on WordPress and Tilda
+- Responsive layouts with HTML & CSS
+- Deployment and hosting setup (Docker, docker-compose, Render)
+- Automated testing with Pytest
+- Working with Redis for caching
+- Integration with third-party APIs
 
-### 🐍 Python
+## 🛠 Tech Stack
+**Languages & Frameworks**: Python, HTML, CSS, FastAPI, SQLAlchemy  
+**Databases**: PostgreSQL, Alembic  
+**DevOps & Tools**: Docker, docker-compose, Render, Git, GitHub  
+**Other**: WordPress, Tilda, Redis, Pytest, Swagger / OpenAPI, cURL, Postman, BeautifulSoup
 
-- Experience with FastAPI and SQLAlchemy ORM
-- Confident use of built-in data structures
-- Control flow, generators, closures
-- Object-Oriented and Functional Programming
-- Modular code structure and dependency management
-- Basics of algorithms and data structures
-
-### 📊 Databases
-
-- Relational database design and normalization
-- SQL: SELECT, JOIN, GROUP BY, subqueries
-- DDL/DML, indexes, constraints, transactions
-- PostgreSQL: functions, custom types, Alembic migrations
-
-### 🌐 Web & Data
-
-- REST API design, docs, and JWT protection
-- Telegram bots: state handling, logic, database interaction
-- Working with third-party APIs and JSON
-- Redis caching
-- Web scraping with requests and BeautifulSoup
+---
 
 ## 🧠 Soft Skills
 
