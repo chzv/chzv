@@ -2,7 +2,7 @@
 
 🇷🇺 Read in Russian → [README.ru.md](./README.ru.md)
 
-**Junior Developer** with experience in backend development, databases, and web technologies.  
+**Backend Developer** with experience in backend development, databases, and web technologies.  
 I create practical tools — from Telegram bots to REST APIs and full-fledged websites — focusing on clean architecture and reliability.
 
 ---
